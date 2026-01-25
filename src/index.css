@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    @apply min-h-screen bg-gradient-to-b from-[#0c3b2e] to-[#0f5f3d] text-white overflow-x-hidden;
+}
