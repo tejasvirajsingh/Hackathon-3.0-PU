@@ -3,7 +3,12 @@
 LeafLive.ai is an AI-powered **Plant Disease Detection Web Application** that helps users identify plant diseases by uploading leaf images. The platform provides fast, accurate results along with disease details and prevention tips.
 
 ---
+## Visit the Project
 
+ 
+ 👉 [Visit the Live Website](https://leaflifeai.netlify.app/)
+
+---
 ## 🚀 Features
 
 - 🌱 Upload plant leaf images
@@ -15,7 +20,6 @@ LeafLive.ai is an AI-powered **Plant Disease Detection Web Application** that he
 
 ---
 
-## 🛠️ Tech Stack
 
 ### Frontend
 - HTML5  
@@ -36,3 +40,19 @@ LeafLive.ai is an AI-powered **Plant Disease Detection Web Application** that he
 
 ## 📂 Project Structure
 
+LeafLive.ai/
+│
+├── public/
+│ ├── index.html
+│ └── favicon_io/
+│
+├── src/
+│ ├── components/
+│ ├── assets/
+│ ├── App.js
+│ ├── index.js
+│ └── style.css
+│
+├── package.json
+├── README.md
+└── .gitignore
