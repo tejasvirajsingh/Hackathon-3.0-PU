@@ -33,8 +33,9 @@ export default function Footer()
           <h4 className="text-leaf mb-2">TEAM</h4>
           <ul className="text-sm opacity-80 space-y-2">
             <li>Interstellar's Team</li>
-            <li>AI / ML Engineers</li>
             <li>Frontend & Backend</li>
+            <li>AI / ML Engineers</li>
+            
           </ul>
         </div>
       </div>
