@@ -34,7 +34,7 @@ export default function Footer()
           <ul className="text-sm opacity-80 space-y-2">
             <li>Interstellar's Team</li>
             <li>Frontend & Backend</li>
-            <li>AI / ML Engineers</li>
+            <li>AI/ML Engineers</li>
             
           </ul>
         </div>
