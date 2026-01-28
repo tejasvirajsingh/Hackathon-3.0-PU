@@ -10,7 +10,7 @@ export default function About() {
   <p className="leading-relaxed">
   LeafLife.ai is an AI-powered smart agriculture platform designed to
   detect plant diseases by scanning leaf images. Our system uses
-  advanced computer vision and deep learning to analyze patterns,
+  advanced computer vision and deep learning to analyze pattern,
   texture, and color changes on leaves.
   </p>
   </div>
