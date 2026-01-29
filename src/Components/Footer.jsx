@@ -10,7 +10,7 @@ export default function Footer()
 
 
         <div>
-          <h4 className="text-leaf mb-2">PRODUCT</h4>
+          <h4 className="text-leaf font-bold mb-2">PRODUCT</h4>
           <ul className="text-sm opacity-80 space-y-2">
             <li>Leaf Disease Detection</li>
             <li>AI-Based Analysis</li>
@@ -20,7 +20,7 @@ export default function Footer()
 
 
         <div>
-          <h4 className="text-leaf mb-2">TECHNOLOGY</h4>
+          <h4 className="text-leaf font-bold mb-2">TECHNOLOGY</h4>
           <ul className="text-sm opacity-80 space-y-2">
             <li>Machine Learning</li>
             <li>Image Processing</li>
@@ -30,7 +30,7 @@ export default function Footer()
 
 
         <div>
-          <h4 className="text-leaf mb-2">TEAM</h4>
+          <h4 className="text-leaf font-bold mb-2">TEAM</h4>
           <ul className="text-sm opacity-80 space-y-2">
             <li>Interstellar's Team</li>
             <li>Frontend & Backend</li>
