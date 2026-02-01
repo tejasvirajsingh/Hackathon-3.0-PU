@@ -8,7 +8,7 @@ LeafLive.ai is an AI-powered **Plant Disease Detection Web Application** that he
 </p>
 
 ---
-## Visit the Project
+# Visit the Project
 
  
  👉 [Visit the Live Website](https://leaflifeai.netlify.app/)
